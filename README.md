@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Exalis
+- 👀 I’m interested in Android developpement
+- 🌱 I’m currently learning lots of stuff !
+- 📫 How to reach me alexandre.cornu@onlyvert.fr
